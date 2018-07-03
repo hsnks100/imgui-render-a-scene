@@ -31,12 +31,14 @@
     }
 ```
 
+# RUN
+```
 git clone --recursive https://github.com/hsnks100/imgui-render-a-scene.git
 
 cd imgui-render-a-scene
 cmake .
 make
 ./imgui-demo.app
-
+```
 
 
